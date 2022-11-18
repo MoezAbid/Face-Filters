@@ -1,0 +1,12 @@
+scikit-image
+numpy
+cv2
+pandas
+matplotlib
+math
+keras
+scikit-image
+math
+tqdm
+tensorflow
+opencv-python
